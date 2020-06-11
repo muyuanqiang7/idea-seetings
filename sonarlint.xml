@@ -1,0 +1,17 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <rules>
+      <Rule active="false" key="squid:S1155" />
+      <Rule active="false" key="squid:S1905" />
+      <Rule active="false" key="squid:RedundantThrowsDeclarationCheck" />
+      <Rule active="false" key="squid:S1488" />
+      <Rule key="squid:S1698" />
+      <Rule active="false" key="squid:S3864" />
+      <Rule active="false" key="squid:S5361" />
+      <Rule key="squid:S4604" />
+      <Rule key="squid:S4603" />
+      <Rule active="false" key="squid:S106" />
+    </rules>
+  </component>
+</application>
