@@ -4,7 +4,7 @@
     <property name="created">2020-07-15T12:23:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-07-15T16:13:33</property>
+    <property name="modified">2020-07-15T18:42:22</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -123,6 +123,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f9ee98" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="BACKGROUND">
@@ -3376,6 +3377,7 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cda869" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
