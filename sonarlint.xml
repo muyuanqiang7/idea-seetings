@@ -12,6 +12,7 @@
       <Rule key="squid:S4604" />
       <Rule key="squid:S4603" />
       <Rule active="false" key="squid:S106" />
+      <Rule active="false" key="java:S1117" />
     </rules>
   </component>
 </application>
