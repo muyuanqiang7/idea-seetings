@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="jcodestination" type="PLAIN_TEXT" />
       <mapping ext="jcoserver" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
