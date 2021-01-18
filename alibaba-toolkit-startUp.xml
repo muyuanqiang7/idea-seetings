@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/huiztech/2020/huiztech-desktop-app" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/huiztech/2020/huiztech-platform-component-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/huiztech/2021/omda-project" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/huiztech/cdmetro-mdias-driver-shift/cdmetro-mdias-driver-shift-project" startUpFlag="FIRST" />
   </component>
