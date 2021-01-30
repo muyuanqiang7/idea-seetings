@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/data-governance/clickhouse-jpa-druid" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/huiztech/2020/huiztech-desktop-app" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/huiztech/2020/huiztech-platform-component-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/huiztech/2020/huiztech-platform-service-resources" startUpFlag="FIRST" />
