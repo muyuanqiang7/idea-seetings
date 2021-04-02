@@ -1144,6 +1144,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
+              <option name="myPluginName" value="Protobuf Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pbm">
           <value>
             <plugin>
@@ -1257,6 +1265,14 @@
               <option name="myPluginId" value="com.intellij.properties" />
               <option name="myPluginName" value="Properties" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
+              <option name="myPluginName" value="Protobuf Support" />
             </plugin>
           </value>
         </entry>
@@ -1533,6 +1549,14 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
               <option name="myPluginName" value="Scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.textproto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.github.kkkiio.protobuf.support" />
+              <option name="myPluginName" value="Protobuf Support" />
             </plugin>
           </value>
         </entry>
