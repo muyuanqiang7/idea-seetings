@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/gitProjects/grpc-java" />
+        <option value="$USER_HOME$/tools" />
       </list>
     </option>
   </component>
